@@ -2,14 +2,9 @@
 import { React } from 'react';
 
 
-const ButtonFunc = (text) => {
-    if(text === ""){
-        return "Button Works";
-    } else {
-        return text;
-    }
-}
 
+
+    
 
 
 
